@@ -1,0 +1,18 @@
+h1 {
+    color: aliceblue; 
+    width: 696px;
+    height: 120px;
+    top: 280px;
+    left: 452px;
+    text-align: center;
+}
+* {margin: 0;
+padding: 0;}
+a {
+    font-size: 19;
+    color: black;
+
+}
+.secondary-text + p {
+    color: blueviolet;
+}
